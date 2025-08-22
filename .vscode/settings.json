@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3307,
+            "driver": "MySQL",
+            "name": "fullstack_rating_app",
+            "database": "fullstack_rating_app",
+            "username": "root",
+            "password": "08112001",
+            "connectionTimeout": 30
+        }
+        
+        
+    ]
+}
